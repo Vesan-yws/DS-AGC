@@ -2,7 +2,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import adv_layer
+import adversarial
 import random
 from self_attention import MultiHeadAttention
 import scipy.spatial.distance as dis
