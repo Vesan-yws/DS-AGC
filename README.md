@@ -11,8 +11,8 @@
 # Databases
 *   [SEED](https://bcmi.sjtu.edu.cn/~seed/index.html ""), [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/seed-iv.html ""), [SEED-V](https://bcmi.sjtu.edu.cn/~seed/seed-v.html "") and [FACED](https://doi.org/10.7303/syn50614194 "")
 # Training
-*   DS-AGC model definition file: models_DS-AGC.py
-*   Pipeline of the DS-AGC: implementation_DS-AGC.py
+*   DS-AGC model definition file: models_DS_AGC.py
+*   Pipeline of the DS-AGC: implementation_DS_AGC.py
 *   Implementation of domain adversarial training: adversarial.py
 *   Self-attention model: self_attention.py
 # Usage
